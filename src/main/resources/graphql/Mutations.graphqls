@@ -1,0 +1,4 @@
+type Mutation{
+    saveCar(carDto: CarDtoInput): CarDto,
+    deleteCar(Long: id_Car): CarDto
+}

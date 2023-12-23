@@ -1,0 +1,6 @@
+type CarDto{
+    model : String,
+    color : String,
+    price : ID
+
+}

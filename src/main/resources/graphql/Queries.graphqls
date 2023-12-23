@@ -1,0 +1,4 @@
+type Query {
+    getCArByModele(model: String):CarDto,
+    getCarByModelAndPrice(model : String, price: ID): CarDto
+}

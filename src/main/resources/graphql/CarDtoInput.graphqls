@@ -1,0 +1,5 @@
+input CarDtonput{
+    model : String,
+    color : String,
+    price : ID
+}
